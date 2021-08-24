@@ -5,5 +5,6 @@ Sail Email Service (SES.) It is a powerful assistant that can improve the delive
 Sail Email Service is jointly developed by Ring3803 and Rita_7963 .<br>
 Warning ! Only applicable to PowerMTA3.5 and above .
 * [Telegram](https://t.me/Ring3803 "Telegram") 
-* [中国区总代理 Telegram](https://t.me/SESchain "中国区总代理 Telegram")
+* [Telegram Group](https://t.me/SailEmailService "Telegram Group")
+* [中国区总代理 Telegram](https://t.me/SESchain "中国区总代理 Telegram") 
 
