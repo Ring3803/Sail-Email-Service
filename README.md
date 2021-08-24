@@ -1,1 +1,1 @@
-# ses
+# Sail Email Service (SES.)
